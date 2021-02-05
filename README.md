@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=LEE%20YEONG%20MO&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
-
-<h3 align="center"> 👋 Hi there 👋 </h3>
+<h3 align="center"> 👋 WELCOME 👋 </h3>
 <p align="center">
-I'm Jihye Shin, a growing developer. 🌱 <br>
-I want to be a person who gives you new wisdom. ✨
+프론트엔드 개발자 이영모의 GITHUB 입니다.🌱 <br>
 </p>
+
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
