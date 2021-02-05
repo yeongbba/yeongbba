@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=LEE%20YEONG%20MO&fontSize=70&animation=twinkling)
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+<p align="center"> 🇰🇷 🇫🇷 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Main Frontend Stack </p>
+<p align="center"> Main Stack </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
@@ -17,10 +17,8 @@
 </p>
   <br>
   
-<p align="center"> Sub Backend Stack </p>
+<p align="center"> Sub Stack </p>
 
-
-  
 <p align="center">
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
@@ -53,5 +51,5 @@
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeongbba&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeongbba&count_bg=%2389cd75&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
