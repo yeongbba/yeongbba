@@ -42,7 +42,7 @@
 
 
 <br><br>
-<h3 align="center"> 👨🏻‍💻 Me 👨🏻‍💻 </h3>
+<h3 align="center"> 😎 Me 😎 </h3>
 <p align="center">
   <a href="https://blog.naver.com/samm162"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=NativeScript&logoColor=white&link=https://blog.naver.com/samm162"/></a>&nbsp
   <a href="https://www.instagram.com/martien_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/martien_lee/"/></a>&nbsp
