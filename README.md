@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/MongoDB-DB3552?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-005571?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Travis CI-ffb13b?style=flat-square&logo=travis-CI&logoColor=white"/></a>&nbsp 
 </p>
 
   <br>
