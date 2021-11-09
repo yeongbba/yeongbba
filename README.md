@@ -7,13 +7,13 @@
 
 ## Hi! I'm front-end developer interested in back-end skills, too.
 
-🖥 [Client Side] React, NextJS, Redux, Redux-Saga, PostCSS.
+🖥 [Client Side] Angular, React, NextJS, Redux, Redux-Saga, Less.
 
-⚙️ [Server Side] Node.js, Express, GraphQL with Apollo, TypeORM, Mysql, MongoDB.
+⚙️ [Server Side] Node.js, Express, Mysql, MongoDB.
 
 🔍 [Deploy] AWS EC2, AWS S3, AWS RDS, AWS ELB, Nginx, SSL, Docker, Travis CI.
 
-📗 [Language] Typescript, Javascript.
+📗 [Language] Typescript, Javascript, Java
 
 📃 [Test] Jest, Cypress, Supertest.
 
