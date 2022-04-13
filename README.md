@@ -9,9 +9,9 @@
 
 🖥 [Client Side] Angular, React, NextJS, Redux, Less.
 
-⚙️ [Server Side] Node.js, Mysql.
+⚙️ [Server Side] Node.js, Mysql, MongoDB.
 
-🔍 [ETC] AWS, LINUX, GIT.
+🔍 [ETC] AWS, Linux, Git.
 
 📗 [Language] Typescript, Java.
 
