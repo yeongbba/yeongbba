@@ -5,19 +5,16 @@
   <a href="https://www.instagram.com/martien_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/martien_lee/"/></a>
   <a href="mailto:yeongmolee2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yeongmolee2@gmail.com"/></a>
 
-## Hi! I'm front-end developer interested in back-end skills, too.
+## Hi! I'm front-end developer.
 
-🖥 [Client Side] Angular, React, NextJS, Redux, Redux-Saga, Less.
+🖥 [Client Side] Angular, React, NextJS, Redux, Less.
 
-⚙️ [Server Side] Node.js, Express, Mysql, MongoDB.
+⚙️ [Server Side] Node.js, Mysql.
 
-🔍 [Deploy] AWS EC2, AWS S3, AWS RDS, AWS ELB, Nginx, SSL, Docker, Travis CI.
+🔍 [ETC] AWS, LINUX, GIT.
 
-📗 [Language] Typescript, Javascript, Java
+📗 [Language] Typescript, Java.
 
-📃 [Test] Jest, Cypress, Supertest.
-
-🏷 [Etc] Git, Firebase(Oauth, Real-time Database, Storage), Cloudinary.  
 
 ![Yeongbba's github stats](https://github-readme-stats.vercel.app/api?username=yeongbba&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeongbba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
