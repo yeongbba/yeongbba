@@ -5,7 +5,7 @@
   <a href="https://www.instagram.com/martien_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/martien_lee/"/></a>
   <a href="mailto:yeongmolee2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yeongmolee2@gmail.com"/></a>
 
-## Hi! I'm front-end developer.
+## What's in my head?
 
 🖥 [Client Side] Angular, React, NextJS, Redux, Less.
 
